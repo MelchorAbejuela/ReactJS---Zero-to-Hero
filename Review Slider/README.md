@@ -1,0 +1,1 @@
+Review Slider - This project is a Review Carousel application built with React. It uses the useState hook to navigate through a list of reviews. The App component manages the current review index and provides functions to navigate to the previous or next review. The Review component displays the current review along with navigation buttons.

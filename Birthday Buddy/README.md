@@ -1,0 +1,1 @@
+Birthday Buddy - This project is a Birthday Reminder application built with React. It uses the useState hook to manage a list of people whose birthdays are to be reminded. Each person's information, including their name, image, and age, is displayed in a list using the PersonComponent. Users can clear all birthday reminders with a single button click.

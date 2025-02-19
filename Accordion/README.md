@@ -1,0 +1,1 @@
+Accordion - The QuestionList and SingleQuestion components work together to create an interactive question-and-answer interface. QuestionList passes props to SingleQuestion, which displays each question with a toggle button to show or hide the associated information.

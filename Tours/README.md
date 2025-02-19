@@ -1,3 +1,1 @@
-## Figma URL
-
-[Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
+Tours - This project is a Tours application built with React. It fetches tour data from an API and displays a list of tours, allowing users to toggle between viewing more or less information about each tour and to mark tours as "Not Interested" to remove them from the list.
