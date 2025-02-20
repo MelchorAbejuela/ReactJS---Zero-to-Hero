@@ -1,1 +1,1 @@
-To run each project, install the modules by running npm install.
+Tabs - This project displays a list of career experiences fetched from an external API. It allows users to browse through different companies and view the relevant career details for each selected company.

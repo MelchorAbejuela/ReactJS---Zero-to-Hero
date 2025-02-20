@@ -1,0 +1,1 @@
+Lorem Ipsum - This project is a simple React-based Lorem Ipsum Generator. It lets users generate random paragraphs from predefined texts by inputting the desired number of paragraphs. The app also handles errors gracefully, showing messages when the input is out of range.
