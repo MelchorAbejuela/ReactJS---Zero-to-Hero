@@ -1,0 +1,1 @@
+This React app generates different shades of a selected color using values.js. Users can copy HEX values to the clipboard with a click, triggering a success or error toast notification via react-toastify. The app includes a color picker and a text input for manual HEX code entry.
